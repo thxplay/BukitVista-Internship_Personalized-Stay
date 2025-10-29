@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+plotly
+openpyxl
+geopy
+streamlit.components.v1
