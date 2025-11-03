@@ -66,7 +66,7 @@ def gather_local_images(img_dir="images", bases=None, limit=10):
     return images
 
 
-# -------------------- App config --------------------
+# -------------------- App config --------------------#
 st.set_page_config(page_title="Personalized Stay — Friendly Travel", layout="wide")
 
 # -------------------- Large fixed navbar with logo (place right after st.set_page_config(...)) --------------------
